@@ -1,5 +1,5 @@
 ﻿// ==UserScript==
-// @name         MapHelp
+// @name         Torn MapHelp
 // @description  This script will list all of your available items.
 // @namespace    https://greasyfork.org/users/5563-bloody
 // @version      1.1.2
