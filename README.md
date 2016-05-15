@@ -1,5 +1,6 @@
 # MapHelp
-This Userscript will list items that you have on your map.
+This is a Userscript for TORN.com.
+It will list items that you have on your map.
 
 # Requirements
 * Chrome users must install [**Tampermonkey**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en).
