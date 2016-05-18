@@ -1,4 +1,4 @@
-# MapHelp
+# Torn - Map help
 This is a Userscript for TORN.com.
 It will list items that you have on your map.
 
