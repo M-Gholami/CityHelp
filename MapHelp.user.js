@@ -1,8 +1,8 @@
 ﻿// ==UserScript==
-// @name         Torn MapHelp
+// @name         Torn - Map help
 // @description  This script will list all of your available items.
 // @namespace    https://greasyfork.org/users/5563-bloody
-// @version      1.1.2
+// @version      1.1.3
 // @author       BloodyMind [1629016]
 // @match        *://www.torn.com/city.php*
 // @match        *://torn.com/city.php*
