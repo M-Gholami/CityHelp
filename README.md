@@ -8,4 +8,4 @@ It will list items that you have on your map.
 * Opera users must install [**Violentmoneky**](https://addons.opera.com/en/extensions/details/violent-monkey/?display=en).
 
 # Installation
-You can install the latest version of this script from [**Greasyfork**](https://greasyfork.org/en/scripts/19721-maphelp).
+You can install the latest version of this script from [**Greasyfork**](https://greasyfork.org/en/scripts/19721-torn-map-help).
